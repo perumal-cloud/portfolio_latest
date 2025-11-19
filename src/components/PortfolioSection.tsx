@@ -30,11 +30,11 @@ const projects = [
   },
   { 
     id: 2, 
-    title: 'Retailer Portal', 
+    title: 'GrabNLease', 
     category: 'Web', 
     type: 'B2B SaaS Platform', 
     image:'/images/image.png', 
-    link:"https://your-retailerportal-link.com",
+    link:"https://grabnlease.vercel.app/",
     description: "Enterprise-grade B2B platform connecting retailers globally",
     gradient: "from-blue-500/20 to-indigo-600/20",
     accent: "blue"
@@ -67,7 +67,7 @@ const projects = [
     category: 'Web', 
     type: 'Web Development', 
     image:'/images/portfolio1.png', 
-    link:"https://portfolio-perumal.vercel.app/",
+    link:"https://portfolio-perumal15.vercel.app/",
     description: "Minimal, responsive personal portfolio showcasing projects and skills",
     gradient: "from-pink-500/20 to-rose-600/20",
     accent: "pink"
