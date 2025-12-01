@@ -24,7 +24,7 @@ const projects = [
     type: 'News Platform', 
     image:'/images/peopleplus.png', 
     link:"https://www.peopleplus.press/en",
-    description: "Modern healthcare e-commerce with AI-powered inventory management",
+    description: "Your daily source for trusted, up-to-date news from India and around the world",
     gradient: "from-emerald-500/20 to-teal-600/20",
     accent: "emerald"
   },
@@ -42,7 +42,7 @@ const projects = [
   { 
     id: 3, 
     title: 'SARG Admin', 
-    category: 'Web', 
+    category: 'Admin', 
     type: 'Dashboard System', 
     image:'/images/image.jpeg', 
     link:"https://adminanuragavigarments.vercel.app/login/",
