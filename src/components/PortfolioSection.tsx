@@ -19,11 +19,11 @@ export default function PortfolioSection() {
 const projects = [
   { 
     id: 1, 
-    title: 'Medical Store', 
+    title: 'Peopleplus Press', 
     category: 'Web', 
-    type: 'E-commerce Platform', 
-    image:'/images/Media.jpeg', 
-    link:"https://your-medicalstore-link.com",
+    type: 'News Platform', 
+    image:'/images/peopleplus.png', 
+    link:"https://www.peopleplus.press/en",
     description: "Modern healthcare e-commerce with AI-powered inventory management",
     gradient: "from-emerald-500/20 to-teal-600/20",
     accent: "emerald"
@@ -52,11 +52,11 @@ const projects = [
   },
   { 
     id: 4, 
-    title: 'SPP Papad', 
+    title: 'Papad Wala', 
     category: 'Web', 
     type: 'E-commerce', 
     image:'/images/papad.png', 
-    link:"https://ecommerce-papad-glwu.vercel.app/",
+    link:"https://papadwala.vercel.app/",
     description: "Traditional papad business digitized with modern e-commerce solutions",
     gradient: "from-orange-500/20 to-yellow-600/20",
     accent: "orange"
